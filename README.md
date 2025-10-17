@@ -12,21 +12,32 @@ Alur program ProductMenu dimulai ketika aplikasi dijalankan dan jendela utama ta
 
 # dokumentasi
 <img width="770" height="475" alt="image" src="https://github.com/user-attachments/assets/3dfa5296-dddc-4fbd-849a-d15114329f42" />
+
 pada tabel tersebut terlihat bahwa user baru menambahkan data baru untuk id "PRD021" dan "PRD022"
 
+
 <img width="1012" height="872" alt="Screenshot 2025-10-17 112027" src="https://github.com/user-attachments/assets/ec76ca09-4f3d-4f01-9b7a-2a9b0456b58a" />
+
 pada dokumentasi tersebut terlihat bahwa muncul pesan validasi bahwa semua kolom harus di isi, yang artinya tidak boleh kosong pada bagian ID untuk contoh pada gambar tersebut
 
+
 <img width="777" height="518" alt="image" src="https://github.com/user-attachments/assets/60c01dde-ed1e-4ee3-9dd6-91c8d1a3633b" />
+
 terlihat bahwa ada pesan kalau data berhasil di update pada bagian esteh yang tadinya tertulis makanan, sekarang sudah di update menjadi kategori minuman
 
+
 <img width="825" height="732" alt="image" src="https://github.com/user-attachments/assets/c53bb669-96ce-4520-857e-47067de7fa18" />
+
 muncul pesan error bahwa untuk mengisi bagian harga itu harus merupakan pure angka tidak boleh ada koma
 
+
 <img width="447" height="214" alt="Screenshot 2025-10-17 202831" src="https://github.com/user-attachments/assets/c36b2c13-26f5-4daa-b4a7-a927652365db" />
+
 sebelum menghapus data terdapat pesan konfirmasi apakah yakin untuk menghapus data tersebut
 
+
 <img width="595" height="368" alt="image" src="https://github.com/user-attachments/assets/38d00243-d7a1-4048-9bb4-9e7776187e7d" />
+
 terlihat bahwa data sudah berhasil terhapus
 
 
