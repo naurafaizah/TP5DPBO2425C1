@@ -16,6 +16,11 @@ Alur program ProductMenu dimulai ketika aplikasi dijalankan dan jendela utama ta
 pada tabel tersebut terlihat bahwa user baru menambahkan data baru untuk id "PRD021" dan "PRD022"
 
 
+<img width="1018" height="877" alt="Screenshot 2025-10-17 111811" src="https://github.com/user-attachments/assets/4830bf32-9b93-46d8-9722-ab951f7ca08e" />
+
+terdapat pesan error bahwa jika ID yang sama tidak akan bisa digunakan lagi
+
+
 <img width="1012" height="872" alt="Screenshot 2025-10-17 112027" src="https://github.com/user-attachments/assets/ec76ca09-4f3d-4f01-9b7a-2a9b0456b58a" />
 
 pada dokumentasi tersebut terlihat bahwa muncul pesan validasi bahwa semua kolom harus di isi, yang artinya tidak boleh kosong pada bagian ID untuk contoh pada gambar tersebut
